@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShadowSubu
+- 👋 Hi, I’m @SubhajitAdhikari
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity Engine
 - 💞️ I’m looking to collaborate on any GameJams or GameDevelopment Projects
