@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SubhajitAdhikari
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity Engine
-- 💞️ I’m looking to collaborate on any GameJams or GameDevelopment Projects
-- 📫 How to reach me My Discord ID is-> ShadowSubu#5236
+- 👀 I’m an experienced Game Developer
+- 🌱 I’m currently learning Multiplayer Game Development and Unreal engine
 
 <!---
 ShadowSubu/ShadowSubu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
