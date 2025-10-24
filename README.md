@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SubhajitAdhikari
-- 👀 I’m an experienced Game Developer
+- 👀 I’m an experienced Game Developer with Expertise in Unity Game engine
 - 🌱 I’m currently learning Multiplayer Game Development and Unreal engine
 
 <!---
